@@ -1,0 +1,8 @@
+com\insignic\accounts\utils\EncryptPassword.class
+com\insignic\accounts\utils\ConsoleColors.class
+com\insignic\accounts\database\MongoDb.class
+com\insignic\accounts\utils\Logger.class
+com\insignic\accounts\commands\AccountCommand.class
+com\insignic\accounts\database\DatabaseManager.class
+com\insignic\accounts\Main.class
+com\insignic\accounts\commands\ILoginCommand.class

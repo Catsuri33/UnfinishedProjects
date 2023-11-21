@@ -1,0 +1,7 @@
+fr\catsuri33\chomcraftproxy\commands\LobbyCommand.class
+fr\catsuri33\chomcraftproxy\Proxy.class
+fr\catsuri33\chomcraftproxy\listeners\PlayerJoin.class
+velocity-plugin.json
+fr\catsuri33\chomcraftproxy\listeners\PlayerChat.class
+fr\catsuri33\chomcraftproxy\listeners\PlayerQuit.class
+fr\catsuri33\chomcraftproxy\commands\SendPlayerCommand.class

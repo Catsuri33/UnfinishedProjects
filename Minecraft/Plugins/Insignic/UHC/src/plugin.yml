@@ -1,0 +1,17 @@
+name: UHC
+description: UHC for make private UHC games.
+website: https://catsuri33.fr
+author: Catsuri33
+
+version: 1.0.0
+main: fr.catsuri33.uhc.UHC
+
+api-version: 1.14
+
+commands:
+  reload:
+    description: Reload le serveur.
+  rl:
+    description: Reload le serveur.
+  host:
+    description: Commandes relatives a la configuration de la partie.

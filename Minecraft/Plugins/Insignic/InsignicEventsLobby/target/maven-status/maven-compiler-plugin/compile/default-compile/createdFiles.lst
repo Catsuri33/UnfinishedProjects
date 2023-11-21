@@ -1,0 +1,5 @@
+fr\insignicevents\lobby\database\players\PlayersTable.class
+fr\insignicevents\lobby\listeners\PlayerQuit.class
+fr\insignicevents\lobby\utils\ScoreboardUtils.class
+fr\insignicevents\lobby\listeners\PlayerJoin.class
+fr\insignicevents\lobby\Lobby.class

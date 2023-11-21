@@ -1,0 +1,24 @@
+{
+
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+
+    "III",
+    " S ",
+    " S "
+
+  ],
+  "key": {
+
+    "I": {"item":  "fratospia:silver_ingot"},
+    "S": {"item":  "minecraft:stick"}
+
+  },
+  "result": {
+
+    "item":  "fratospia:silver_pickaxe",
+    "count": 1
+
+  }
+
+}

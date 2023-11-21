@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="95bdc3e3-c952-44da-af9b-6c8786a96dc5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VySGW1V4f1a7p5hbK38c9HGckX" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../InsignicEventsSkyWars/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15429688" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="fr.isnignicevents.skywars.listeners" />
+      <recent name="fr.insignicevents.global.database.players" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Documents\Développement\Minecraft\Plugins\InsignicEventsSkyWars\src\main\resources" />
+      <recent name="C:\Users\Admin\Documents\Développement\Minecraft\Plugins\InsignicEventsTntTag\src\main\resources" />
+      <recent name="C:\Users\Admin\Documents\Développement\Minecraft\Plugins\InsignicEventsGlobal\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install InsignicEventsGlobal" />
+      <command value="mvn InsignicEventsLobby clean install" />
+      <command value="mvn clean install" />
+      <command value="mvn InsignicEventsGlobal clean install" />
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95bdc3e3-c952-44da-af9b-6c8786a96dc5" name="Default Changelist" comment="" />
+      <created>1578223745838</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578223745838</updated>
+      <workItem from="1578223747569" duration="23000" />
+      <workItem from="1578228230738" duration="2887000" />
+      <workItem from="1578234382424" duration="4331000" />
+      <workItem from="1578758351166" duration="8000" />
+      <workItem from="1578841816877" duration="2563000" />
+      <workItem from="1578844705567" duration="1708000" />
+      <workItem from="1578934799850" duration="144000" />
+      <workItem from="1579095350531" duration="3248000" />
+      <workItem from="1579108975508" duration="1478000" />
+      <workItem from="1579351948011" duration="1226000" />
+      <workItem from="1579444220366" duration="612000" />
+      <workItem from="1579444845753" duration="163000" />
+      <workItem from="1579445042595" duration="7457000" />
+      <workItem from="1579880739897" duration="6378000" />
+      <workItem from="1579977181586" duration="401000" />
+      <workItem from="1580641598071" duration="19000" />
+      <workItem from="1580641688209" duration="126000" />
+      <workItem from="1581259755422" duration="748000" />
+      <workItem from="1581353606139" duration="50000" />
+      <workItem from="1581353694962" duration="123000" />
+      <workItem from="1581448510312" duration="20000" />
+      <workItem from="1581778196470" duration="24000" />
+      <workItem from="1582709683610" duration="209000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579097844089">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579097844089" />
+    <state width="1877" height="261" key="GridCell.Tab.0.bottom" timestamp="1581260708513">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581260708513" />
+    <state width="1877" height="261" key="GridCell.Tab.0.center" timestamp="1581260708513">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581260708513" />
+    <state width="1877" height="261" key="GridCell.Tab.0.left" timestamp="1581260708513">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581260708513" />
+    <state width="1877" height="261" key="GridCell.Tab.0.right" timestamp="1581260708513">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581260708513" />
+    <state x="490" y="176" key="Maven.ArtifactSearchDialog" timestamp="1579109443404">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="176" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579109443404" />
+    <state x="440" y="95" key="SettingsEditor" timestamp="1579881153374">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="95" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579881153374" />
+    <state x="343" y="127" key="new project wizard" timestamp="1579881151161">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="343" y="127" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1579881151161" />
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1579448531001">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1579448531001" />
+  </component>
+</project>

@@ -1,0 +1,54 @@
+name: InsiServerEssential
+version: 1.0.2-ALPHA
+author: Catsuri33
+main: fr.catsuri33.insiserveressential.InsiServerEssential
+api-version: 1.15
+commands:
+  gm0:
+    description: Switch into survival mode.
+  gm1:
+    description: Switch into creative mode.
+  gm2:
+    description: Switch into adventure mode.
+  gm3:
+    description: Switch into spectator mode.
+  fly:
+    description: Activate the fly mode.
+  ptime:
+    description: Change the time of the world for a player.
+  #repair:
+    #description: Repair an item or an armor of a player.
+  broadcast:
+    description: Broadcast a message to all the players of the server.
+  setslots:
+    description: Set an amount of slot to the server.
+  sethome:
+    description: Set a home in the world.
+  home:
+    description: Teleport to your home in the world.
+  delhome:
+    description: Delete a home in the world.
+  craft:
+    description: Open the crafting table.
+  #enchant:
+    #description: Open the enchanting table.
+  ec:
+    description: Open the enderchest.
+  reloadconfiguration:
+    description: Reload all the configurations of the plugin.
+  #rank:
+    #description: Command for the ranks.
+  heal:
+    description: Heal a player.
+  feed:
+    description: Feed a player.
+  #speed:
+    #description: Change the speed of a player.
+  kick:
+    description: Kick a player.
+  kickall:
+    description: Kick all the players except the operators or the player with ther required permission.
+  ban:
+    description: Ban a player.
+  tempban:
+    description: Ban a player temporarily.

@@ -1,0 +1,38 @@
+{
+
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+
+    "WWW",
+    "OOO",
+    "S S"
+
+  ],
+  "key": {
+
+    "W": {
+
+      "item": "minecraft:white_wool"
+
+    },
+
+    "O": {
+
+      "item": "minecraft:oak_slab"
+
+    },
+
+    "S": {
+
+      "item": "minecraft:stick"
+
+    }
+
+  },
+  "result": {
+
+    "item": "fratospia:oak_stool"
+
+  }
+
+}

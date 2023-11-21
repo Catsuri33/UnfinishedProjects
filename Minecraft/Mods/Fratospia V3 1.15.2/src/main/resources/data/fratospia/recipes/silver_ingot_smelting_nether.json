@@ -1,0 +1,13 @@
+{
+
+  "type": "minecraft:smelting",
+  "ingredient": {
+
+    "item": "fratospia:silver_ore_nether"
+
+  },
+  "result": "fratospia:silver_ingot",
+  "experience": 2.0,
+  "cookingtime": 100
+
+}

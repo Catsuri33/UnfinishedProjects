@@ -1,0 +1,32 @@
+{
+
+  "item.fratospia.silver_ingot": "Silver Ingot",
+
+  "item.fratospia.tomato": "Tomato",
+  "item.fratospia.red_chili_pepper": "Red Chili Pepper",
+  "item.fratospia.green_chili_pepper": "Green Chili Pepper",
+  "item.fratospia.chili_pepper_salad": "Chili Pepper Salad",
+
+  "block.fratospia.silver_block": "Silver Block",
+  "block.fratospia.silver_ore": "Silver Ore",
+  "block.fratospia.silver_ore_nether": "Silver Ore",
+  "block.fratospia.silver_ore_end": "Silver Ore",
+
+  "block.fratospia.oak_stool": "Oak Stool",
+
+  "item.fratospia.silver_sword": "Silver Sword",
+  "item.fratospia.silver_axe": "Silver Axe",
+  "item.fratospia.silver_pickaxe": "Silver Pickaxe",
+  "item.fratospia.silver_shovel": "Silver Shovel",
+  "item.fratospia.silver_hoe": "Silver Hoe",
+
+  "item.fratospia.silver_helmet": "Silver Helmet",
+  "item.fratospia.silver_chestplate": "Silver Chestplate",
+  "item.fratospia.silver_leggings": "Silver Leggings",
+  "item.fratospia.silver_boots": "Silver Boots",
+
+  "itemGroup.minerals": "Minerals",
+  "itemGroup.farming": "Farming",
+  "itemGroup.tools": "Tools"
+
+}

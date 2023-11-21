@@ -1,0 +1,78 @@
+p.p1{
+	text-align: center;
+	color: white;
+	font-size: 30px;
+}
+
+p.p2{
+	text-align: center;
+	color: white;
+}
+
+h1{
+	text-align: center;
+	color: #24FE48;
+	font-size: 50px;
+}
+
+img{
+	text-align: center;
+}
+
+html.page1{
+	background: url(https://www.minecraft-france.fr/wp-content/uploads/2014/10/Minecraft-1920x1200px-Wallpaper.jpg);
+}
+
+p.p3{
+	text-align: center;
+	color: white;
+	font-size: 30px;
+}
+
+html.page2{
+	background: url(https://www.minecraft-france.fr/wp-content/uploads/2014/10/Minecraft-1920x1200px-Wallpaper.jpg);
+}
+
+img{
+	padding-left: 640px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: black;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+
+li {
+    border-right: 1px solid #bbb;
+}
+
+li:last-child {
+    border-right: none;
+}
+
+
+

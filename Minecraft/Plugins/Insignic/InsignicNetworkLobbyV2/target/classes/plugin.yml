@@ -1,0 +1,10 @@
+name: InsignicNetworkLobby
+version: 1.0.0
+author: Insignic
+api-version: 1.16
+main: com.insignic.network.Lobby
+commands:
+  account:
+    description: See your InsignicAccount.
+  ilogin:
+    description: Connect to your InsignicAccount.

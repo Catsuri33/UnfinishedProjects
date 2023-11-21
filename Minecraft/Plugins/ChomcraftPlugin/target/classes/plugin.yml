@@ -1,0 +1,4 @@
+name: ChomcraftPlugin
+version: 1.0.0
+author: Catsuri33
+main: fr.catsuri33.chomcraftplugin.ChomcraftPlugin

@@ -1,0 +1,22 @@
+{
+
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+
+    "I I",
+    "I I"
+
+  ],
+  "key": {
+
+    "I": {"item":  "fratospia:silver_ingot"}
+
+  },
+  "result": {
+
+    "item":  "fratospia:silver_boots",
+    "count": 1
+
+  }
+
+}

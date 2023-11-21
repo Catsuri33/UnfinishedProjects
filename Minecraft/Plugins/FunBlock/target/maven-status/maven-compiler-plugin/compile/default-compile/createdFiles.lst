@@ -1,0 +1,13 @@
+fr\funblock\commands\HeadsCommands.class
+fr\funblock\utils\Logger.class
+fr\funblock\utils\VerifyVar.class
+fr\funblock\listeners\PlayerJoin.class
+fr\funblock\core\tasks\TablistRunnable.class
+fr\funblock\listeners\PlayerChat.class
+fr\funblock\utils\ConsoleColors.class
+fr\funblock\core\tasks\TablistRunnable$1.class
+fr\funblock\utils\Parse.class
+fr\funblock\listeners\PlayerQuit.class
+fr\funblock\listeners\PlayerInteract.class
+fr\funblock\FunBlock.class
+fr\funblock\config\ConfigManager.class

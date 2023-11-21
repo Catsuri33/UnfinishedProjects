@@ -1,0 +1,9 @@
+fr\insignic\practice\game\ArenasManager.class
+fr\insignic\practice\game\Arenas.class
+fr\insignic\practice\commands\Broadcast.class
+fr\insignic\practice\listeners\PlayerDeath.class
+fr\insignic\practice\listeners\PlayerDamage.class
+fr\insignic\practice\commands\Duel.class
+fr\insignic\practice\Practice.class
+fr\insignic\practice\listeners\PlayerChat.class
+fr\insignic\practice\listeners\PlayerQuit.class

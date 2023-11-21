@@ -1,0 +1,31 @@
+########################################################
+#                                                      #
+#         Configuration InsiServerEssential            #
+#              Created by Catsuri33                    #
+#                                                      #
+########################################################
+
+plugin:
+
+  # Language of the plugin.
+  # Available languages: "en", "fr".
+  language: "en"
+
+server:
+  events:
+    join:
+      # Message send when a player connect to the server.
+      # Use & + number for the colors codes !
+      # Variables available: %player% (Get the player), %players% (Get the amount of players online), %players-max% (Get the number of slots for the server)
+      join-message: "&e%player% joined the game !"
+      # Enable the 2FA Authentication for the player with GoogleAuthenticator.
+      # Available options: "true", "false"
+      2FA: "false"
+    quit:
+      # Message send when a player leave the server.
+      # Use & + number for the colors codes !
+      # Variables available: %player% (Get the player), %players% (Get the amount of players online), %players-max% (Get the number of slots for the server)
+      quit-message: "&e%player% left the game !"
+  # Enable the player health under the player name.
+  # Available options: "true", "false"
+  player-health: "true"

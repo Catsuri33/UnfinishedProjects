@@ -1,0 +1,16 @@
+name: Event
+description: Event plugin for Catsuri33 events.
+website: https://catsuri33.fr
+author: Catsuri33
+
+version: 1.0.0
+main: fr.catsuri33.event.Event
+load: STARTUP
+
+api-version: 1.14
+
+commands:
+  restart:
+    description: Redémarrer le serveur.
+  nick:
+    description: Changer de pseudo pour éviter le focus (Requiert Streamer et Plus !)

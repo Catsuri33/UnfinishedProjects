@@ -1,0 +1,9 @@
+com\insignic\insiads\utils\RandomString.class
+com\insignic\insiads\core\tasks\AdsRunnable.class
+com\insignic\insiads\listeners\PlayerJoin.class
+com\insignic\insiads\commands\ServerAdsCommand.class
+com\insignic\insiads\utils\RequestAPI.class
+com\insignic\insiads\database\DatabaseManager.class
+com\insignic\insiads\utils\Json.class
+com\insignic\insiads\database\MongoDb.class
+com\insignic\insiads\InsiAds.class

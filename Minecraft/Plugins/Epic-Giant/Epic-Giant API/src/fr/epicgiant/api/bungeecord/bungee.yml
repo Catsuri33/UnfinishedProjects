@@ -1,0 +1,7 @@
+name: EpicGiantBungeecordAPI
+description: API of the server Epic-Giant
+website: https://epic-giant.fr
+author: Catsuri33
+
+version: 1.0.0
+main: fr.epicgiant.api.bungeecord.EpicGiantBungeecordAPI

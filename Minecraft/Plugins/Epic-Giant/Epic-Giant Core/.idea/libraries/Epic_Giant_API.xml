@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Epic-Giant API">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Epic-Giant API/out/artifacts/Epic_Giant_API_jar/Epic-Giant API.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

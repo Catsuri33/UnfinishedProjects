@@ -1,0 +1,39 @@
+* {
+
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+ul {
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #e74c3c;
+
+}
+  
+li {
+
+    float: left;
+
+}
+  
+li a {
+
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 22px;
+    text-decoration: none;
+
+}
+  
+li a:hover {
+
+    background-color: #E53B2B;
+
+}

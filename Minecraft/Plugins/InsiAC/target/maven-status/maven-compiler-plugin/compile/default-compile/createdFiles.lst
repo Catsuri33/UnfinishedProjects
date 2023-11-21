@@ -1,0 +1,10 @@
+fr\catsuri33\insiac\InsiAC.class
+fr\catsuri33\insiac\listeners\PlayerLogin.class
+fr\catsuri33\insiac\mysql\ServersMySQL.class
+fr\catsuri33\insiac\commands\BanCommands.class
+fr\catsuri33\insiac\utils\ConsoleColors.class
+fr\catsuri33\insiac\utils\TimeUnit.class
+fr\catsuri33\insiac\sanctions\bans\BanManager.class
+fr\catsuri33\insiac\mysql\PlayersMySQL.class
+fr\catsuri33\insiac\utils\Logger.class
+fr\catsuri33\insiac\listeners\PlayerJoin.class

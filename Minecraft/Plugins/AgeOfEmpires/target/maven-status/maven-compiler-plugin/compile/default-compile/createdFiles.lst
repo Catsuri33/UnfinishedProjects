@@ -1,0 +1,13 @@
+fr\catsuri33\aoe\game\GameStates.class
+fr\catsuri33\aoe\utils\Cuboid$1.class
+fr\catsuri33\aoe\utils\Logger.class
+fr\catsuri33\aoe\utils\Cuboid$CuboidDirection.class
+fr\catsuri33\aoe\utils\Cuboid.class
+fr\catsuri33\aoe\utils\Cuboid$CuboidIterator.class
+fr\catsuri33\aoe\AgeOfEmpires.class
+fr\catsuri33\aoe\listeners\PlayerQuit.class
+fr\catsuri33\aoe\utils\ConsoleColors.class
+fr\catsuri33\aoe\listeners\PlayerInteract.class
+fr\catsuri33\aoe\listeners\PlayerJoin.class
+fr\catsuri33\aoe\listeners\PlayerClick.class
+fr\catsuri33\aoe\items\ItemsList.class

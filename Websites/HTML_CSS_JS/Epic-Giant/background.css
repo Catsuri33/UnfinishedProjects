@@ -1,0 +1,29 @@
+.gradient.background {
+  background: #7289DA;
+}
+
+.gradient.background.button {
+  border: black 3px solid !important;
+  color: #fff !important;
+}
+
+.gradient.background.button:hover {
+  border: rgba(172,0,255,1) 3px solid !important;
+  border: -moz-linear-gradient(-45deg, rgba(172,0,255,1) 0%, rgba(72,0,255,1) 72%, rgba(72,0,255,1) 100%) 1px solid !important;
+  border: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(172,0,255,1)), color-stop(72%, rgba(72,0,255,1)), color-stop(100%, rgba(72,0,255,1))) 1px solid !important;
+  border: -webkit-linear-gradient(-45deg, rgba(172,0,255,1) 0%, rgba(72,0,255,1) 72%, rgba(72,0,255,1) 100%) 1px solid !important;
+  border: -o-linear-gradient(-45deg, rgba(172,0,255,1) 0%, rgba(72,0,255,1) 72%, rgba(72,0,255,1) 100%) 1px solid !important;
+  border: -ms-linear-gradient(-45deg, rgba(172,0,255,1) 0%, rgba(72,0,255,1) 72%, rgba(72,0,255,1) 100%) 1px solid !important;
+  border: linear-gradient(135deg, rgba(172,0,255,1) 0%, rgba(72,0,255,1) 72%, rgba(72,0,255,1) 100%) 1px solid !important;
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff4800', endColorstr='#e73827', GradientType=1 ) !important;
+  background: black !important;
+  color: #fff !important;
+}
+
+.gradient.background.menu .item {
+  color: white;
+}
+
+.black.background {
+  background: #2C2F33;
+}

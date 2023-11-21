@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Catsuri33API:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Catsuri33API_jar</output-path>
+    <root id="archive" name="Catsuri33API.jar">
+      <element id="module-output" name="Catsuri33API" />
+    </root>
+  </artifact>
+</component>

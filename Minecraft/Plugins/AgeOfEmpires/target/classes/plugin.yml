@@ -1,0 +1,6 @@
+name: AgeOfEmpires
+version: 1.0.0
+author: Catsuri33
+api-version: 1.16
+main: fr.catsuri33.aoe.AgeOfEmpires
+commands:

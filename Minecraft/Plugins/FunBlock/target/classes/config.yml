@@ -1,0 +1,33 @@
+###############################################################
+#                                                             #
+#                    FunBlock Plugin                          #
+#                      By Catsuri33                           #
+#                                                             #
+###############################################################
+
+options:
+  # Pour mettre des couleurs c'est "&" avec le code, par exemple: "&c".
+  prefix: "&eFun&6Block &l» &r"
+  # Pour mettre des couleurs c'est "&" avec le code, par exemple: "&c".
+  # Variables disponibles pour custom la tablist:
+  # - %players-count% : Afficher le nombre de joueurs connectés.
+  # - %players-max% : Afficher le nombre de joueurs maximum.
+  tablist:
+    header:
+      line1: "&r&eFun§6Block"
+      line2: "&5Nombre de joueurs: &3%players-count%"
+    footer:
+      line1: "&r&1Discord: discord.io/FunBlock"
+      line2: "&2Passe un bon moment sur notre serveur !"
+  # Pour mettre des couleurs c'est "&" avec le code, par exemple: "&c".
+  # Variables disponibles pour custom la tablist:
+  # - %player% : Afficher le pseudo du joueur.
+  messages:
+    join: "&7[&2+&7] %player%"
+    quit: "&7[&c-&7] %player%"
+  # Pour mettre des couleurs c'est "&" avec le code, par exemple: "&c".
+  # Variables disponibles pour custom la tablist:
+  # - %player% : Afficher le pseudo du joueur.
+  # - %message% : Afficher le message du joueur.
+  chat:
+    format: "%player% &6» &r%message%"

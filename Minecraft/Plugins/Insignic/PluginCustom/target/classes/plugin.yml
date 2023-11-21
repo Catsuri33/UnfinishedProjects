@@ -1,0 +1,20 @@
+name: PluginCustom
+version: 1.0.0
+author: Catsuri33
+api-version: 1.16
+main: fr.catsuri33.sc.Main
+commands:
+  spawn:
+    description: Se téléporter au spawn du serveur.
+  wtp:
+    description: Se téléporter dans un autre monde.
+  wcreate:
+    description: Générer un nouveau monde.
+  msg:
+    description: Envoyer un message à un joueur.
+  r:
+    description: Répondre au message d'un joueur.
+  money:
+    description: Gérer l'économie.
+  mtimer:
+    description: Gérer le gain d'argent en focntion du temps de jeu.

@@ -1,0 +1,17 @@
+com\insignicnetwork\essentials\Essentials$1.class
+com\insignicnetwork\essentials\mysql\PlayersMySQL.class
+com\insignicnetwork\essentials\listeners\InventoryClick.class
+com\insignicnetwork\essentials\Essentials.class
+com\insignicnetwork\essentials\commands\CoinsCommand.class
+com\insignicnetwork\essentials\mysql\CTFMySQL.class
+com\insignicnetwork\essentials\listeners\PlayerJoin.class
+com\insignicnetwork\essentials\mysql\ranks\RanksList.class
+com\insignicnetwork\essentials\commands\InsiCoinsCommand.class
+com\insignicnetwork\essentials\managers\PlayerManager.class
+com\insignicnetwork\essentials\servers\ServersCommon.class
+com\insignicnetwork\essentials\core\divisions\DivisionList.class
+com\insignicnetwork\essentials\core\divisions\DivisionsManager.class
+com\insignicnetwork\essentials\guis\ReportGui.class
+com\insignicnetwork\essentials\listeners\PlayerChat.class
+com\insignicnetwork\essentials\commands\Lobby.class
+com\insignicnetwork\essentials\commands\ModerationCommands.class

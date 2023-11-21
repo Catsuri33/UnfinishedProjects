@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+    <head>
+
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    </head>
+
+    <body>
+
+        <input type="text" name="user" id="user">
+        <input type="password" name="password" id="password">
+
+        <button id="playButton">Jouer</button>
+
+        <script>
+
+            const ipc = require('electron').ipcRenderer;
+            const userInput = document.getElementById("user");
+            const passwordInput = document.getElementById("password");
+            const playButton = document.getElementById("playButton");
+
+            playButton.addEventListener("click", () => {
+
+                playButton.disabled = true;
+                userInput.disbled = true;
+                passwordInput.disbled = true;
+
+                if(userInput.value != null && userInput.value != "" && passwordInput.value != null && passwordInput.value != ""){
+
+                    ipc.send("login", {
+
+                        username: userInput.value,
+                        password: passwordInput.value
+
+                    });
+
+                } else {
+
+                    alert("Erreur, vous devez entrez des identifiants valides !");
+                    playButton.disabled = false;
+                    userInput.disbled = false;
+                    passwordInput.disbled = false;
+
+                }
+
+            });
+
+            ipc.on("err", (event, value) => {
+
+                alert(value);
+                playButton.disabled = false;
+                userInput.disbled = false;
+                passwordInput.disbled = false;
+
+            });
+
+        </script>
+
+    </body>
+
+</html>

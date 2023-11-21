@@ -1,0 +1,20 @@
+c:\users\stephane.laurans\documents\visual studio 2012\Projects\MasterMind\MasterMind\bin\Debug\MasterMind.exe.config
+c:\users\stephane.laurans\documents\visual studio 2012\Projects\MasterMind\MasterMind\bin\Debug\MasterMind.exe
+c:\users\stephane.laurans\documents\visual studio 2012\Projects\MasterMind\MasterMind\bin\Debug\MasterMind.pdb
+c:\users\stephane.laurans\documents\visual studio 2012\Projects\MasterMind\MasterMind\obj\Debug\MasterMind.csprojResolveAssemblyReference.cache
+c:\users\stephane.laurans\documents\visual studio 2012\Projects\MasterMind\MasterMind\obj\Debug\MasterMind.Form1.resources
+c:\users\stephane.laurans\documents\visual studio 2012\Projects\MasterMind\MasterMind\obj\Debug\MasterMind.Properties.Resources.resources
+c:\users\stephane.laurans\documents\visual studio 2012\Projects\MasterMind\MasterMind\obj\Debug\MasterMind.csproj.GenerateResource.Cache
+c:\users\stephane.laurans\documents\visual studio 2012\Projects\MasterMind\MasterMind\obj\Debug\MasterMind.exe
+c:\users\stephane.laurans\documents\visual studio 2012\Projects\MasterMind\MasterMind\obj\Debug\MasterMind.pdb
+C:\Users\Admin\Documents\Developpement\Applications\C#\MasterMind\MasterMind\bin\Debug\MasterMind.exe.config
+C:\Users\Admin\Documents\Developpement\Applications\C#\MasterMind\MasterMind\bin\Debug\MasterMind.exe
+C:\Users\Admin\Documents\Developpement\Applications\C#\MasterMind\MasterMind\bin\Debug\MasterMind.pdb
+C:\Users\Admin\Documents\Developpement\Applications\C#\MasterMind\MasterMind\obj\Debug\MasterMind.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Developpement\Applications\C#\MasterMind\MasterMind\obj\Debug\MasterMind.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\Developpement\Applications\C#\MasterMind\MasterMind\obj\Debug\MasterMind.Form1.resources
+C:\Users\Admin\Documents\Developpement\Applications\C#\MasterMind\MasterMind\obj\Debug\MasterMind.Properties.Resources.resources
+C:\Users\Admin\Documents\Developpement\Applications\C#\MasterMind\MasterMind\obj\Debug\MasterMind.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Developpement\Applications\C#\MasterMind\MasterMind\obj\Debug\MasterMind.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Developpement\Applications\C#\MasterMind\MasterMind\obj\Debug\MasterMind.exe
+C:\Users\Admin\Documents\Developpement\Applications\C#\MasterMind\MasterMind\obj\Debug\MasterMind.pdb

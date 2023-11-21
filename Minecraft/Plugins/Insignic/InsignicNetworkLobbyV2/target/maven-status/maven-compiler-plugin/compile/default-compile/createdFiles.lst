@@ -1,0 +1,10 @@
+com\insignic\network\utils\ConsoleColors.class
+com\insignic\network\listeners\PlayerQuit.class
+com\insignic\network\listeners\PlayerJoin.class
+com\insignic\network\Lobby.class
+com\insignic\network\utils\Logger.class
+com\insignic\network\commands\AccountCommand.class
+com\insignic\network\database\MongoDb.class
+com\insignic\network\utils\EncryptPassword.class
+com\insignic\network\database\DatabaseManager.class
+com\insignic\network\commands\ILoginCommand.class

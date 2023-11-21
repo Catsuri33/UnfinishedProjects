@@ -1,0 +1,23 @@
+name: EpicGiantCore
+description: Core of the server Epic-Giant
+website: https://epic-giant.fr
+author: Catsuri33
+
+version: 1.0.0
+main: fr.epicgiant.core.Main
+load: STARTUP
+
+api-version: 1.14
+
+commands:
+  maintenance:
+    description: Enable or disable the maintenance.
+    usage: /<maintenance> [on|off]
+  kickall:
+    description: Kick all the infos of the server.
+  ban:
+    description: Ban a player.
+  unban:
+    description: Unban a player.
+  npc:
+    description: Create NPC.

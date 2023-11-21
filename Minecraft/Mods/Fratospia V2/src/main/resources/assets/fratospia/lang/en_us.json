@@ -1,0 +1,26 @@
+{
+
+  "item.fratospia.silver_ingot": "Silver Ingot",
+
+  "block.fratospia.silver_block": "Silver Block",
+  "block.fratospia.silver_ore_overworld": "Silver Ore",
+  "block.fratospia.silver_ore_nether": "Silver Ore",
+  "block.fratospia.silver_ore_end": "Silver Ore",
+
+  "item.fratospia.silver_axe": "Silver Axe",
+  "item.fratospia.silver_pickaxe": "Silver Pickaxe",
+  "item.fratospia.silver_shovel": "Silver Shovel",
+  "item.fratospia.silver_sword": "Silver Sword",
+  "item.fratospia.silver_hoe": "Silver Hoe",
+
+  "item.fratospia.silver_helmet": "Silver Helmet",
+  "item.fratospia.silver_chestplate": "Silver Chestplate",
+  "item.fratospia.silver_leggings": "Silver Leggings",
+  "item.fratospia.silver_boots": "Silver Boots",
+
+  "itemGroup.fratospia_minerals": "Fratospia: Minerals",
+  "itemGroup.fratospia_tools": "Fratospia: Tools",
+  "itemGroup.fratospia_armors": "Fratospia: Armors",
+  "itemGroup.fratospia_biomes": "Fratospia: Biomes"
+
+}

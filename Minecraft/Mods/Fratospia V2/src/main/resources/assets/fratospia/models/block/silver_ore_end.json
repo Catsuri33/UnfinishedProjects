@@ -1,0 +1,10 @@
+{
+
+  "parent": "block/cube_all",
+  "textures": {
+
+    "all": "fratospia:block/silver_ore_end"
+
+  }
+
+}

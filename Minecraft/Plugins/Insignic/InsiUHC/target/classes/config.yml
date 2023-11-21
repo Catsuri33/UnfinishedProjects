@@ -1,0 +1,14 @@
+########################################################
+#                                                      #
+#              Configuration InsiUHC                   #
+#              Created by Catsuri33                    #
+#                                                      #
+########################################################
+
+plugin:
+
+  # Language of the plugin.
+  # Available languages: "en", "fr".
+  language: "en"
+
+server:

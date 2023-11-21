@@ -1,0 +1,16 @@
+main: fr.catsuri33.lguhc.LGUHC
+name: LGUHC
+version: 1.0.0
+description: A LGUHC plugin.
+author: Catsuri33
+website: catsuri33.fr
+api-version: 1.14
+commands:
+  broadcast:
+    description: Broadcast a message to the server.
+    permission: lguhc.broadcast
+    usage: /broadcast <message>
+  gameeditor:
+    description: Edit the options of the game.
+    permission: lguhc.gameeditor
+    usage: /gameeditor

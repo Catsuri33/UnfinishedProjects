@@ -1,0 +1,23 @@
+########################################################
+#                     InsiFactions                     #
+#                   Author: Catsuri33                  #
+#                    Version: 1.0.0                    #
+########################################################
+
+# Prefix of the plugin in the messages.
+# You can use "&" + color code for the colors.
+prefix-plugin: "&6InsiFactions &f&l» "
+
+messages:
+  language: "fr-fr"
+  # Variables avaible:
+  # - %player% : Get the player.
+  # - %players-count% : Get the amount of players on the server.
+  # - %players-max% : Get the maximum amount of players on the server.
+  join: "&7[&2+&7] &r%player% &7(&e%players-count%&7/&e%players-max%&7)"
+  quit: "&7[&c-&7] &r%player% &7(&e%players-count%&7/&e%players-max%&7)"
+
+economy:
+  currency:
+    name: "Dollars"
+    display: "$"

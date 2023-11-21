@@ -1,0 +1,32 @@
+{
+
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+
+    " II",
+    " SI",
+    " S "
+
+  ],
+  "key": {
+
+    "I": {
+
+      "item": "fratospia:silver_ingot"
+
+    },
+
+    "S": {
+
+      "item": "minecraft:stick"
+
+    }
+
+  },
+  "result": {
+
+    "item": "fratospia:silver_axe"
+
+  }
+
+}

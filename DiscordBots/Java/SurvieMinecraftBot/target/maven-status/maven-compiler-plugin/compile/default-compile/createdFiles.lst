@@ -1,0 +1,6 @@
+fr\catsuri33\survieminecraftbot\listeners\Spigot.class
+fr\catsuri33\survieminecraftbot\listeners\Discord.class
+fr\catsuri33\survieminecraftbot\listeners\PlayerDeath.class
+fr\catsuri33\survieminecraftbot\listeners\PlayerJoin.class
+fr\catsuri33\survieminecraftbot\listeners\PlayerQuit.class
+fr\catsuri33\survieminecraftbot\SurvieMinecraftBot.class

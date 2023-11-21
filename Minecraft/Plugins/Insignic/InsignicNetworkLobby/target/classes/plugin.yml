@@ -1,0 +1,14 @@
+name: InsignicNetworkLobby
+author: Catsuri33
+version: 1.0.0
+main: com.insignicnetwork.lobby.Lobby
+api-version: 1.15
+commands:
+  map:
+    description: Import an image in minecraft.
+  register:
+    description: Register on the server.
+  login:
+    description: Login on the server.
+  password:
+    description: Change your password.

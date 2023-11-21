@@ -1,0 +1,9 @@
+{
+
+  "type": "minecraft:smelting",
+  "ingredient": {"tag":  "fratospia:silver_ores"},
+  "result": "fratospia:silver_ingot",
+  "experience": 2,
+  "cookingtime": 200
+
+}

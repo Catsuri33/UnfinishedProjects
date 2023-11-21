@@ -1,0 +1,6 @@
+fr\insignicevents\global\utils\ServerManagement.class
+fr\insignicevents\global\commands\Maintenance.class
+fr\insignicevents\global\Global.class
+fr\insignicevents\global\database\servers\ServersTable.class
+fr\insignicevents\global\database\players\PlayersTable.class
+fr\insignicevents\global\listeners\PlayerJoin.class

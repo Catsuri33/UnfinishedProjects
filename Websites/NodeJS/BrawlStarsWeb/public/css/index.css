@@ -1,0 +1,190 @@
+* {
+
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+body {
+
+    background-image: url('/resources/images/backgrounds/brawlstars_background.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #464646;
+
+}
+
+div#content_center {
+
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+
+}
+
+#logo_brawlstarsweb {
+
+    margin: 8px 0px;
+    width: 250px;
+    height: 250px;
+    padding: 0px 18px;
+
+}
+
+#button_logosupercellid {
+
+    width: 24px;
+    height: 20px;
+    vertical-align: middle;
+
+}
+
+#button_logoinsignicaccounts {
+
+    width: 30px;
+    height: 30px;
+    vertical-align: middle;
+
+}
+
+#button_supercellid {
+
+    display: block;
+    border-radius: 4px;
+    background-color: #34495e;
+    border: none;
+    color: white;
+    padding: 16px 54px;
+    text-decoration: none;
+    margin: 4px 0px;
+    cursor: pointer;
+
+}
+
+#button_insignicaccounts {
+
+    display: block;
+    border-radius: 4px;
+    background-color: #34495e;
+    border: none;
+    color: white;
+    padding: 11px 37px;
+    text-decoration: none;
+    margin: 4px 0px;
+    cursor: pointer;
+
+}
+
+#content_right {
+
+    position: absolute;
+    left: 99%;
+    top: 1%;
+    -webkit-transform: translate(-99%, -1%);
+    transform: translate(-99%, -1%);
+
+}
+
+#button_language {
+
+    border-radius: 4px;
+    width: 75px;
+    height: 40px;
+    cursor: pointer;
+    background-color: #34495e;
+    border: none;
+
+
+}
+
+#button_langugageflag {
+
+    width: 50px;
+    height: 25px;
+    vertical-align: middle;
+    
+}
+
+#dropdown_flags {
+
+    position: relative;
+    display: inline-block;
+
+}
+  
+#dropdown_flags_content {
+
+    display: none;
+    position: absolute;
+    background-color: #34495e;
+    min-width: 75px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+
+}
+  
+#dropdown_flags_content a {
+
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    margin: 6px 0px;
+
+}
+  
+#dropdown_flags_content a:hover {
+
+    background-color: #344557;
+
+}
+  
+#dropdown_flags:hover #dropdown_flags_content {
+
+    display: block;
+
+}
+
+#text_login {
+
+    color: white;
+    text-align: center;
+    font-size: 20px;
+
+}
+
+#login_error_message {
+
+    color: red;
+    text-align: center;
+    font-size: 20px;
+
+}
+
+#button_login_supercell {
+
+    display: block;
+    border-radius: 4px;
+    background-color: #34495e;
+    border: none;
+    color: white;
+    padding: 12px 87px;
+    text-decoration: none;
+    margin: 20px 38px;
+    cursor: pointer;
+
+}
+
+#login_fields {
+
+    display: block;
+    padding: 12px 20px;
+    margin: 8px 38px;
+    border: 0px;
+    border-radius: 4px;
+
+}

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="InspectionProjectProfileManager">
+    <profile version="1.0">
+      <option name="myName" value="Project Default" />
+    </profile>
+    <version value="1.0" />
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MineFight.iml" filepath="$PROJECT_DIR$/MineFight.iml" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="libraryTable">
+    <library name="gson-2.8.1">
+      <CLASSES>
+        <root url="jar://$PROJECT_DIR$/../../../../gson-2.8.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="openauth-1.0.4">
+      <CLASSES>
+        <root url="jar://$PROJECT_DIR$/../../../../openauth-1.0.4.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="openlauncherlib-3.0.4">
+      <CLASSES>
+        <root url="jar://$PROJECT_DIR$/../../../../openlauncherlib-3.0.4.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="s-update-3.1.0-BETA">
+      <CLASSES>
+        <root url="jar://$PROJECT_DIR$/../../../../s-update-3.1.0-BETA.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="swinger-1.0.0-BETA">
+      <CLASSES>
+        <root url="jar://$PROJECT_DIR$/../../../../swinger-1.0.0-BETA.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</project>

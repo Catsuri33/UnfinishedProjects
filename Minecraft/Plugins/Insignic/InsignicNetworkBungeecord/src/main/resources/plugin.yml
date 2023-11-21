@@ -1,0 +1,7 @@
+name: InsignicNetworkBungeecord
+author: Catsuri33
+version: 1.0.0
+main: com.insignicnetwork.bungeecord.Bungeecord
+commands:
+  friend:
+    description: Commands for the friends system.

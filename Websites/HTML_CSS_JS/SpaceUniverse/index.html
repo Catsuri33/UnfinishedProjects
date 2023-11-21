@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+
+    <link rel="stylesheet" href="css/fonts.css">
+    <link rel="stylesheet" href="css/main.css">
+
+    <title>SpaceUniverse - Accueil</title>
+
+</head>
+<body>
+
+    <section class="wrapper">
+
+        <div id="stars"></div>
+        <div id="stars2"></div>
+        <div id="stars3"></div>
+
+        <div id="hoverBackground">
+
+            <div id="backgroundNavbar"></div>
+
+            <p id="title">SpaceUniverse</p>
+
+            <ul>
+                <li><a id="home" href="#">Accueil</a></li>
+                <li><a id="news" href="#">Informations</a></li>
+
+                <li><a id="galerie" href="#">Galerie</a></li>
+                <li><a id="contact" href="#">Contact</a></li>
+            </ul> 
+
+            <audio id="audio" src="resources/musics/background/background1.mp3" autoplay loop>
+            
+                <source src="resources/musics/background/background1.mp3" type="audio/mpeg">
+                <source src="resources/musics/background/background1.ogg" type="audio/ogg">
+
+            </audio>
+
+            <div id="newsBoxs">
+
+                <div id="newsBox1">
+
+                    <p id="titleNewsBox1">Lorem Ipsu</p>
+
+                </div>
+
+                <div id="newsBox2">
+
+                    <p id="titleNewsBox2">Lorem Ipsu 2</p>
+
+                </div>
+
+                <div id="newsBox3">
+
+                    <p id="titleNewsBox3">Lorem Ipsu 3</p>
+
+                </div>
+
+            </div>
+
+            <div id="footer">
+
+                <p id="footerText1">SpaceUniverse © 2019</p>
+    
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- <div id="pictureOfDay">
+
+        <thing id="img"></thing>
+
+        <script>
+
+            $.ajax({
+
+                url: "https://api.nasa.gov/planetary/apod?api_key=0eeUiWCOxb4xXVr8C8L85yCgubGsGFB68vbbu2ce",
+
+                success: function(result){
+
+                    document.getElementById("img").innerHTML="<img src=" + result.url + " style=width:40%; />";
+
+                }
+
+            });
+
+        </script>
+
+    </div> -->
+    
+</body>
+</html>

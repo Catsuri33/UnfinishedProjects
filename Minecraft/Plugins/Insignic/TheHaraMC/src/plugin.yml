@@ -1,0 +1,8 @@
+name: TheHaraMC-UHC
+description: TheHaraMC-UHC plugin.
+website: https://catsuri33.fr
+author: Catsuri33
+
+version: 1.0.0
+main: fr.catsuri33.theharamc.UHC
+load: STARTUP

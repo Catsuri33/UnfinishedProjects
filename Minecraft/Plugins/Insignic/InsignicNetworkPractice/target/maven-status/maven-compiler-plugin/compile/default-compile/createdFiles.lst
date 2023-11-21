@@ -1,0 +1,16 @@
+com\insignicnetwork\practice\Practice$1.class
+com\insignicnetwork\practice\mysql\ranks\RanksList.class
+com\insignicnetwork\practice\listeners\PlayerPlace.class
+com\insignicnetwork\practice\Practice.class
+com\insignicnetwork\practice\listeners\PlayerQuit.class
+com\insignicnetwork\practice\listeners\InventoryClick.class
+com\insignicnetwork\practice\mysql\PlayersMySQL.class
+com\insignicnetwork\practice\mysql\PracticeMySQL.class
+com\insignicnetwork\practice\listeners\PlayerBreak.class
+com\insignicnetwork\practice\listeners\PlayerJoin.class
+com\insignicnetwork\practice\core\divisions\DivisionsManager.class
+com\insignicnetwork\practice\listeners\PlayerDrop.class
+com\insignicnetwork\practice\listeners\PlayerInteract.class
+com\insignicnetwork\practice\core\Gamerules.class
+com\insignicnetwork\practice\core\divisions\DivisionList.class
+com\insignicnetwork\practice\listeners\PlayerTakeDamage.class

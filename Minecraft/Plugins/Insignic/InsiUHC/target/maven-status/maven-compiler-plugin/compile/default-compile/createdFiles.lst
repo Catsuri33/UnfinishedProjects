@@ -1,0 +1,5 @@
+fr\catsuri33\insiuhc\InsiUHC.class
+fr\catsuri33\insiuhc\config\ConfigManager.class
+fr\catsuri33\insiuhc\listeners\PlayerJoin.class
+fr\catsuri33\insiuhc\commands\HostCommand.class
+fr\catsuri33\insiuhc\utils\UpdateChecker.class

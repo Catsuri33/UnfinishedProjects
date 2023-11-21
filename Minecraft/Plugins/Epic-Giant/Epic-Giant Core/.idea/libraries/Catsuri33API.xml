@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Catsuri33API">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Catsuri33API/out/artifacts/Catsuri33API_jar/Catsuri33API.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

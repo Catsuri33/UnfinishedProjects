@@ -1,0 +1,14 @@
+name: EpicGianthub
+description: hub plugin of the server Epic-Giant
+website: https://epic-giant.fr
+author: Catsuri33
+
+version: 1.0.0
+main: fr.epicgiant.hub.EpicGiantHub
+load: STARTUP
+
+api-version: 1.14
+
+commands:
+  setxp:
+    description: Set an amount of xp to a player.

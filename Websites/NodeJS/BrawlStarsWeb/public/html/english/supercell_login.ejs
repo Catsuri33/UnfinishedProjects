@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="Brawl Stars, Game, Jeu, Supercell">
+    <meta name="description" content="BrawlStars web version.">
+
+    <link rel="shortcut icon" type="image/png" href="/resources/images/logo_brawlstars.png">
+    <title>BrawlStars Web</title>
+
+    <link rel="stylesheet" href="/css/index.css" type="text/css">
+
+</head>
+
+<body>
+
+    <div id="content_right">
+
+        <div id="dropdown_flags">
+
+            <button id="button_language"><img id="button_langugageflag" src="/resources/images/flags/english_flag.png"></button>
+            <div id="dropdown_flags_content">
+              <a href="/login/supercell/fr"><img id="button_langugageflag" src="/resources/images/flags/french_flag.png"></a>
+              <a href="/login/supercell/es"><img id="button_langugageflag" src="/resources/images/flags/spanish_flag.png"></a>
+            </div>
+
+        </div>
+
+    </div>
+
+    <div id="content_center">
+
+        <img id="logo_brawlstarsweb" src="/resources/images/logo_brawlstarsweb.png">
+
+        <p id="text_login">Log in to Supercell ID</p>
+        <p id="login_error_message"><%= errorMessage %></p>
+
+        <form action="/login/supercell" method="POST">
+
+            <input id="login_fields" type="text" name="supercelltag" placeholder="Tag" required>
+            <button id="button_login_supercell" type="submit">Log in</button>
+
+        </form>
+
+    </div>
+
+</body>
+
+</html>

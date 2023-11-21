@@ -1,0 +1,10 @@
+name: Catsuri33API
+description: API of Catsuri33 for development
+website: https://catsuri33.fr
+author: Catsuri33
+
+version: 1.0.0
+main: fr.catsuri33.api.API
+load: STARTUP
+
+api-version: 1.14

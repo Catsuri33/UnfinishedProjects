@@ -1,0 +1,5 @@
+name: InsignicAds
+version: 1.0.0
+author: Insignic
+api-version: 1.17
+main: com.insignic.insiads.InsiAds

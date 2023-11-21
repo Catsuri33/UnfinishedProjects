@@ -1,0 +1,6 @@
+name: InsignicEventsSkyWars
+author: Catsuri33
+version: 1.0.0
+main: fr.insignicevents.skywars.SkyWars
+api-version: 1.15
+commands:

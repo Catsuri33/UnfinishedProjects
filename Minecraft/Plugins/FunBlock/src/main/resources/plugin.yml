@@ -1,0 +1,9 @@
+name: FunBlock
+author: Catsuri33
+version: 1.0.0
+main: fr.funblock.FunBlock
+commands:
+  heads:
+    description: Commandes relatives au système de chasse aux têtes.
+  rank:
+    description: Commandes relatives au système de grades.

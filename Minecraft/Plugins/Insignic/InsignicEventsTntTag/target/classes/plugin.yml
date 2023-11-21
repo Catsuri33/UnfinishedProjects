@@ -1,0 +1,6 @@
+name: InsignicEventsTntTag
+author: Catsuri33
+version: 1.0.0
+main: fr.insignicevents.tnttag.TntTag
+api-version: 1.15
+commands:

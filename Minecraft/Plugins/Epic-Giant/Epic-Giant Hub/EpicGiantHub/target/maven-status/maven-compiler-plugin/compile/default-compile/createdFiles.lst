@@ -1,0 +1,13 @@
+fr\epicgiant\hub\tools\Actionbar.class
+fr\epicgiant\hub\database\MYSQL.class
+fr\epicgiant\hub\tools\BossBar.class
+fr\epicgiant\hub\listeners\PlayerJoin.class
+fr\epicgiant\hub\database\ranks\RankUnit.class
+fr\epicgiant\hub\commands\xp\XPCommand.class
+fr\epicgiant\hub\EpicGiantHub.class
+fr\epicgiant\hub\database\level\LevelManagement.class
+fr\epicgiant\hub\tools\ItemBuilder.class
+fr\epicgiant\hub\tools\Title.class
+fr\epicgiant\hub\database\Account.class
+fr\epicgiant\hub\listeners\PlayerChat.class
+fr\epicgiant\hub\listeners\PlayerQuit.class

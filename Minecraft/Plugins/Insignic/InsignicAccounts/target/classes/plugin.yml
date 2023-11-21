@@ -1,0 +1,10 @@
+name: InsignicAccounts
+version: 1.0.0
+author: Insignic
+api-version: 1.16
+main: com.insignic.accounts.Main
+commands:
+  account:
+    description: See your InisgnicAccount or the account of a player.
+  ilogin:
+    description: Connect to your InsignicAccounts.

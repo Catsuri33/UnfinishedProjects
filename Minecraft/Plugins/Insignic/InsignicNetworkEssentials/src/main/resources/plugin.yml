@@ -1,0 +1,18 @@
+name: InsignicNetworkEssentials
+author: Catsuri33
+version: 1.0.0
+main: com.insignicnetwork.essentials.Essentials
+api-version: 1.15
+commands:
+  coins:
+    description: Change the amount of Coins of a player.
+  insicoins:
+    description: Change the amount of InsiCoins of a player.
+  rank:
+    description: Manage the ranks of the players.
+  lobby:
+    description: Teleport to the lobby.
+  mod:
+    description: Change moderation mode.
+  report:
+    description: Report a player.

@@ -1,0 +1,8 @@
+name: InsignicEventsGlobal
+author: Catsuri33
+version: 1.0.0
+main: fr.insignicevents.global.Global
+api-version: 1.15
+commands:
+  maintenance:
+    description: Gérer l'état de la maintenance du serveur.

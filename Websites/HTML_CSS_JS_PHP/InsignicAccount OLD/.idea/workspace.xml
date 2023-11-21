@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48efaa97-2fd6-4346-a110-f302e8f26e84" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1S1BI3hGBLE0DJb5QkUkYNvZ60W" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="discord-application" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Documents\Développement\Html\InsignicAccount\php" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48efaa97-2fd6-4346-a110-f302e8f26e84" name="Default Changelist" comment="" />
+      <created>1570721138620</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570721138620</updated>
+      <workItem from="1570721145549" duration="608000" />
+      <workItem from="1571314661557" duration="37000" />
+      <workItem from="1572008974796" duration="714000" />
+      <workItem from="1578842603901" duration="8000" />
+      <workItem from="1583597823072" duration="217000" />
+      <workItem from="1583598181431" duration="49000" />
+      <workItem from="1583598242021" duration="65000" />
+      <workItem from="1583598367434" duration="530000" />
+      <workItem from="1583665619379" duration="270000" />
+      <workItem from="1584205250821" duration="76000" />
+      <workItem from="1584205368306" duration="2044000" />
+      <workItem from="1584270470192" duration="1790000" />
+      <workItem from="1586604290623" duration="22000" />
+      <workItem from="1594034566886" duration="3000" />
+      <workItem from="1596296103131" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="248" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583598190034">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="248" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583598190034" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584274163107">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584274163107" />
+    <state x="683" y="318" key="NewPhpClassDialog" timestamp="1584205942314">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="683" y="318" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584205942314" />
+    <state x="794" y="439" key="NewPhpFileDialog" timestamp="1584206824025">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="439" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584206824025" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1586604301838">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586604301838" />
+  </component>
+</project>

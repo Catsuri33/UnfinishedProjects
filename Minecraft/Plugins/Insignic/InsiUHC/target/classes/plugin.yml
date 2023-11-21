@@ -1,0 +1,10 @@
+name: InsiUHC
+version: 1.0.0
+author: Catsuri33
+main: fr.catsuri33.insiuhc.InsiUHC
+api-version: 1.15
+commands:
+  host:
+    description: Command for the host of the game.
+    aliases:
+      - h

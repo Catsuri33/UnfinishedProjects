@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" onMouseDragged="#windowDragged" onMousePressed="#windowPressed" prefHeight="600.0" prefWidth="400.0" style="-fx-background-color: #273c75;" stylesheets="@../css/style/style.css" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.insignic.calculator.controller.CalculatorController">
+   <children>
+      <HBox prefHeight="50.0" prefWidth="400.0" style="-fx-background-color: #192a56;">
+         <children>
+            <ImageView id="TitleMenuIcon" fitHeight="30.0" fitWidth="30.0" layoutX="350.0" layoutY="10.0" onMouseClicked="#closeWindow" pickOnBounds="true" preserveRatio="true" translateX="350.0" translateY="10.0" x="350.0" y="10.0">
+               <image>
+                  <Image url="@../../../../../../../../../../../../Downloads/times-solid.png" />
+               </image>
+            </ImageView>
+            <ImageView id="TitleMenuIcon" fitHeight="30.0" fitWidth="30.0" layoutX="270.0" layoutY="25.0" onMouseClicked="#minimizeWindow" pickOnBounds="true" preserveRatio="true" translateX="270.0" translateY="30.0" x="270.0" y="25.0">
+               <image>
+                  <Image url="@../../../../../../../../../../../../Downloads/window-minimize-solid.png" />
+               </image>
+            </ImageView>
+            <Text fill="WHITE" layoutX="-50.0" layoutY="8.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Insignic Calculator" translateX="-50.0" translateY="8.0" x="-50.0" y="8.0">
+               <font>
+                  <Font size="24.0" />
+               </font>
+            </Text>
+         </children>
+      </HBox>
+   </children>
+</Pane>

@@ -1,0 +1,9 @@
+fr\catsuri33\uhcrun\game\Game.class
+fr\catsuri33\uhcrun\lang\Messages.class
+fr\catsuri33\uhcrun\game\GameStates.class
+fr\catsuri33\uhcrun\UHCRun.class
+fr\catsuri33\uhcrun\game\Teleport.class
+fr\catsuri33\uhcrun\listeners\PlayerJoin.class
+fr\catsuri33\uhcrun\listeners\PlayerQuit.class
+fr\catsuri33\uhcrun\listeners\PlayerFallDamage.class
+fr\catsuri33\uhcrun\listeners\PlayerJoin$1.class

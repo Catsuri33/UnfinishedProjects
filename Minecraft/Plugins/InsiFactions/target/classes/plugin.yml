@@ -1,0 +1,18 @@
+name: InsiFactions
+version: 1.0.0
+author: Catsuri33
+api-version: 1.16
+main: fr.catsuri33.insifactions.InsiFactions
+commands:
+  setmine:
+    description: Add mines to the world.
+  money:
+    description: Get your amount of money.
+  rank:
+    description: Manage the ranks.
+  broadcast:
+    description: Broadcast a message to the players.
+  faction:
+    description: Manage the factions.
+  maintenance:
+    description: Manage the maintenance state.

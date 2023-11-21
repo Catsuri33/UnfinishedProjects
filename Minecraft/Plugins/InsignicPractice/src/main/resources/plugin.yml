@@ -1,0 +1,10 @@
+name: InsignicPractice
+author: Catsuri33
+version: 1.0.0
+main: fr.insignic.practice.Practice
+api-version: 1.15
+commands:
+  broadcast:
+    description: Envoyer un broadcast sur le serveur.
+  duel:
+    description: Duel un joueur du serveur.

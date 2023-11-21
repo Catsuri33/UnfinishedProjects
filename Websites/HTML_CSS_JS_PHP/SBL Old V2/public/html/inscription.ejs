@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="Basket, Lesparre, Medoc, Sport">
+    <meta name="description" content="Club de Basket de Lesparre Medoc.">
+
+    <link rel="shortcut icon" type="image/png" href="/resources/images/sbl_125.png">
+    <title>Sam Basket Lesparre</title>
+
+    <link rel="stylesheet" href="/css/index.css" type="text/css">
+
+</head>
+
+<body>
+
+    <div id="navbar">
+
+        <div id="backNavbar">
+
+            <ul>
+
+                <img src="/resources/images/sbl_125.png" id="logo">
+    
+                <li><a href="/">Accueil</a></li>
+                <li><a href="/equipes">Equipes</a></li>
+                <li><a href="/contact">Contact</a></li>
+                <li style="float:right"><a href="/inscription">Inscription</a></li>
+    
+            </ul>
+    
+        </div>
+
+    </div>
+
+    <div id="content">
+
+        <div id="signupform">
+
+            <h1>Inscription</h1>
+
+            <p id="errorMessage"><%= errorMessage %></p>
+
+            <form action="/inscription" method="POST">
+
+                <input type="text" name="firstname" placeholder="Prénom" required>
+                <input type="text" name="lastname" placeholder="Nom" required>
+                <input type="email" name="email" placeholder="Email" required>
+                <input type="password" name="password" placeholder="Mot de Passe" required>
+                <input type="password" name="verifypassword" placeholder="Mot de Passe" required>
+
+                <button type="submit">Envoyer</button>
+
+            </form>
+
+            <p>Vous possédez déjà un compte ? <a href="/connexion">Connectez</a> vous.</p>
+
+        </div>
+
+    </div>
+
+    <div id="footer">
+
+
+
+    </div>
+
+</body>
+
+</html>

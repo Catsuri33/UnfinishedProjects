@@ -1,0 +1,6 @@
+name: InsiUHCHost
+version: 1.0.0
+author: Catsuri33
+main: com.insignic.uhchost.UHCHost
+api-version: 1.16
+commands:

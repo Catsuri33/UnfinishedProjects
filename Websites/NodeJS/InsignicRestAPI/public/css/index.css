@@ -1,0 +1,11 @@
+* {
+
+    margin: 0px;
+    padding: 0px;
+    font-family: "Roboto", sans-serif;
+
+    /* Hide Scrollbar */
+    ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+
+}

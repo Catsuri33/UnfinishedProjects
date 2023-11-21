@@ -1,0 +1,13 @@
+plugin:
+  prefix: "&6[&eFallenKingdoms&6] &e»"
+game:
+  lobby:
+    x:
+    y:
+    z:
+  teams:
+  timers:
+    pvp: 4
+    nether: 5
+    assaults: 7
+    end: 8

@@ -1,0 +1,15 @@
+# Modifier le nom du serveur dans les affichages.
+# Pour utiliser de la couleur, utilisez "&" + un code couleur, par exemple "&6"
+prefix-plugin: "&6&lPluginCustom »§r"
+messages:
+  # Variables disponibles:
+  # %player% : affiche le nom du joueur.
+  # %players-max% : affiche le nombre de slots du serveur.
+  # %players-count% : affiche le nombre de joueurs en ligne.
+  join-message: "§e[§2+§e] §6%player%"
+  quit-message: "§e[§c-§e] §6%player%"
+economy:
+  currency:
+    name: "Dollar"
+    display: "$"
+  timers:

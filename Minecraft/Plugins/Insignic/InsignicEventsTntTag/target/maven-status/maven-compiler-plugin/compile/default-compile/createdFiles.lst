@@ -1,0 +1,5 @@
+fr\insignicevents\tnttag\listeners\PlayerManager.class
+fr\insignicevents\tnttag\game\GameManager.class
+fr\insignicevents\tnttag\database\players\PlayersTable.class
+fr\insignicevents\tnttag\listeners\PlayerJoin.class
+fr\insignicevents\tnttag\TntTag.class

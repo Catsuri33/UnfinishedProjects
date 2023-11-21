@@ -1,0 +1,32 @@
+{
+
+  "item.fratospia.silver_ingot": "Lingot d'Argent",
+
+  "item.fratospia.tomato": "Tomate",
+  "item.fratospia.red_chili_pepper": "Piment Rouge",
+  "item.fratospia.green_chili_pepper": "Piment Vert",
+  "item.fratospia.chili_pepper_salad": "Salade de Piments",
+
+  "block.fratospia.silver_block": "Bloc d'Argent",
+  "block.fratospia.silver_ore": "Minérais d'Argent",
+  "block.fratospia.silver_ore_nether": "Minérais d'Argent",
+  "block.fratospia.silver_ore_end": "Minérais d'Argent",
+
+  "block.fratospia.oak_stool": "Tabouret en Chêne",
+
+  "item.fratospia.silver_sword": "Epée en Argent",
+  "item.fratospia.silver_axe": "Hache en Argent",
+  "item.fratospia.silver_pickaxe": "Pioche en Argent",
+  "item.fratospia.silver_shovel": "Pelle en Argent",
+  "item.fratospia.silver_hoe": "Houe en Argent",
+
+  "item.fratospia.silver_helmet": "Casque en Argent",
+  "item.fratospia.silver_chestplate": "Plastron en Argent",
+  "item.fratospia.silver_leggings": "Jambières en Argent",
+  "item.fratospia.silver_boots": "Bottes en Argent",
+
+  "itemGroup.minerals": "Minéraux",
+  "itemGroup.farming": "Agriculture",
+  "itemGroup.tools": "Outils"
+
+}

@@ -1,0 +1,11 @@
+com\insignicnetwork\lobbyctf\mysql\ranks\RanksList.class
+com\insignicnetwork\lobbyctf\mysql\PlayersMySQL.class
+com\insignicnetwork\lobbyctf\core\divisions\DivisionList.class
+com\insignicnetwork\lobbyctf\LobbyCTF.class
+com\insignicnetwork\lobbyctf\listeners\PlayerJoin.class
+com\insignicnetwork\lobbyctf\mysql\CTFMySQL.class
+com\insignicnetwork\lobbyctf\mysql\FriendsMySQL.class
+com\insignicnetwork\lobbyctf\core\divisions\DivisionsManager.class
+com\insignicnetwork\lobbyctf\LobbyCTF$1.class
+com\insignicnetwork\lobbyctf\core\Gamerules.class
+com\insignicnetwork\lobbyctf\core\scoreboard\ScoreboardManager.class

@@ -1,0 +1,94 @@
+@charset "UTF-8";
+
+body, html {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+a, a:hover{
+	text-decoration: none;
+}
+
+.container-fluid {
+	padding: 0;
+}
+
+.separator {
+	height: 3px;
+	width: 5%;
+	border: none;
+	box-shadow: none;
+	background-color: #0C102B;
+}
+
+/* Header */
+
+.header {
+	background-color: #0C102B;
+	height: 70px;
+	line-height: 70px;
+}
+
+.titre {
+	margin-top: 20px;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	font-weight: bold;
+	letter-spacing: 1px;
+	float: left;
+}
+
+.menu {
+	float: right;
+}
+
+.menu a {
+	color: #4472CC;
+	margin-right: 20px;
+}
+
+.menu a:hover{
+	color: #538BFA;
+}
+
+/* Bannière */
+
+.banner {
+	width: 100%;
+	max-width: 100%;
+}
+
+.ban {
+	width: 100%;
+	max-width: 100%;
+	position: relative;
+}
+.ban img {
+	width: 100%;
+	max-width: 100%;
+}
+
+.inner-banner {
+	position: absolute;
+	top: 40%;
+	width: 100%;
+	text-align: center;
+}
+
+.inner-banner h1 {
+	color: #FFFFFF;
+	text-shadow: 1px 1px 20px #000000;
+}
+
+.inner-banner .btn-custom {
+	background-color: #3E4DFF;
+	color: #FFFFFF;
+}
+
+.inner-banner .btn-custom:hover {
+	color: #848FFF;
+}

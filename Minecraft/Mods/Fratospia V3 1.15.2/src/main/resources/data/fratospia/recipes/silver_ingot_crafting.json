@@ -1,0 +1,27 @@
+{
+
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+
+    "   ",
+    "   ",
+    "B  "
+
+  ],
+  "key": {
+
+    "B": {
+
+      "item": "fratospia:silver_block"
+
+    }
+
+  },
+  "result": {
+
+    "item": "fratospia:silver_ingot",
+    "count": 9
+
+  }
+
+}

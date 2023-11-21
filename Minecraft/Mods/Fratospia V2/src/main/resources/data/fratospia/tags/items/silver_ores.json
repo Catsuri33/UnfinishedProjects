@@ -1,0 +1,12 @@
+{
+
+  "replace": false,
+  "values":[
+
+    "fratospia:silver_ore_overworld",
+    "fratospia:silver_ore_nether",
+    "fratospia:silver_ore_end"
+
+  ]
+
+}

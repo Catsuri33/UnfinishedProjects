@@ -1,0 +1,17 @@
+{
+  "name": "bot2nd4-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Catsuri33",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "discord.js": "^12.1.1",
+    "dotenv": "^8.2.0",
+    "mathjs": "^6.6.2"
+  }
+}

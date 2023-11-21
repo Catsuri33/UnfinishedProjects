@@ -1,0 +1,109 @@
+@charset "UTF-8";
+
+/*ul.menu_horizontal {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: #2C2F33;
+    top: 0;
+    width: 100%;
+    transition:left .2s;
+    height:43px;
+    position:fixed;
+    right:0;
+    left:0px;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px 10px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #23272A;
+}
+
+.active {
+    background-color: #23272A;
+}
+
+li.bouton_droite {
+    float: right;
+}
+
+*/
+
+img.logoyoutubeurscatsuri33 {
+    height: 50px;
+    padding-top: 50px;
+    align-content: left;
+    margin-bottom: 0px;
+}
+
+p.TexteCatsuri33 {
+    padding-top: 0px;
+    padding-left: 0px;
+    display: table-cell;
+    width:600px;
+    padding:10px;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+li a.Catsuri33 {
+    display: block;
+    color: black;
+    text-align: left;
+    padding: 0px 0px;
+    text-decoration: none;
+    width:1580px;
+    height: 100px;
+    margin-top: 50px;
+    background-color: #2D5993;
+}
+
+div.Catsuri33ChatTwitch {
+    display: table-cell;
+    width:600px;
+    padding:10px;
+}
+
+div.Catsuri33LiveTwitch {
+    display: table-cell;
+    width:1000px;
+    padding:10px;
+}
+
+div.banniere_catsuri33 {
+    margin-right: 0px;
+    margin-top: 50px;
+    width: 1580px;
+    height: 200px;
+}
+
+div.int_bouton_catsuri33 {
+    display: table-cell;
+    text-align: left;
+    float:left;
+    margin-right:10px;
+    margin-top:0px;
+    margin-left:10px;
+}
+
+
+footer {
+    text-align: center;
+}
+
+h1.rien {
+    margin-top: 50px;
+    text-align: center;
+}

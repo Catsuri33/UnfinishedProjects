@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Epic-Giant API:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Epic_Giant_API_jar</output-path>
+    <root id="archive" name="Epic-Giant API.jar">
+      <element id="module-output" name="Epic-Giant API" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,7 @@
+com\epicgiant\hub\network\Servers.class
+com\epicgiant\hub\listeners\PlayerJoin.class
+com\epicgiant\hub\EpicGiant.class
+com\epicgiant\hub\utils\PlayerHeadUtils.class
+com\epicgiant\hub\listeners\PlayerInteract.class
+com\epicgiant\hub\listeners\PlayerLeave.class
+com\epicgiant\hub\utils\ItemStackUtils.class

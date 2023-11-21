@@ -1,0 +1,10 @@
+fr\insignicevents\skywars\listeners\PlayerDamages.class
+fr\insignicevents\skywars\listeners\PlayerDrop.class
+fr\insignicevents\skywars\SkyWars.class
+fr\insignicevents\skywars\utils\Locations.class
+fr\insignicevents\skywars\listeners\PlayerJoin$1.class
+fr\insignicevents\skywars\listeners\PlayerBreak.class
+fr\insignicevents\skywars\listeners\PlayerQuit.class
+fr\insignicevents\skywars\listeners\PlayerPlace.class
+fr\insignicevents\skywars\game\GameStates.class
+fr\insignicevents\skywars\listeners\PlayerJoin.class

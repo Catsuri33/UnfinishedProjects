@@ -1,0 +1,38 @@
+{
+
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+
+    "   ",
+    " RG",
+    " B "
+
+  ],
+  "key": {
+
+    "B": {
+
+      "item": "minecraft:bowl"
+
+    },
+
+    "R": {
+
+      "item": "fratospia:red_chili_pepper"
+
+    },
+
+    "G": {
+
+      "item": "fratospia:green_chili_pepper"
+
+    }
+
+  },
+  "result": {
+
+    "item": "fratospia:chili_pepper_salad"
+
+  }
+
+}

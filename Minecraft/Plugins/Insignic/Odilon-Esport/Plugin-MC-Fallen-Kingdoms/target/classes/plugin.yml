@@ -1,0 +1,12 @@
+name: OEFallenKingdoms
+version: 1.0.0
+authors: ["Catsuri33"]
+api-version: 1.18
+main: fr.odilonesport.fallenkingdoms.Main
+commands:
+  setarea:
+    description: Définir les zones de jeu.
+  start:
+    description: Démarrer la partie.
+  team:
+    description: Ajouter/Supprimer des équipes.
